@@ -1,0 +1,1 @@
+This repository showcases a common Python coding error involving lists and how to effectively handle unexpected data types. The `bug.py` file contains code that fails when encountering non-numeric data within a list intended for average calculation.  The `bugSolution.py` file provides a corrected version with improved error handling and input validation.
